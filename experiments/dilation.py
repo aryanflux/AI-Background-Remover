@@ -22,4 +22,3 @@ for i in range(1, img.shape[0]-1):
             dilated[i, j] = 255
         else:
             dilated[i, j] = 0
-            
